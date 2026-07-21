@@ -1,0 +1,49 @@
+.result-card{
+
+width:90%;
+
+margin:30px auto;
+
+background:white;
+
+padding:30px;
+
+border-radius:15px;
+
+box-shadow:0 5px 20px rgba(0,0,0,.1);
+
+text-align:center;
+
+}
+
+.result-card h1{
+
+color:#16a34a;
+
+font-size:42px;
+
+margin:20px 0;
+
+}
+
+.probability{
+
+display:flex;
+
+justify-content:space-around;
+
+margin-top:30px;
+
+}
+
+.probability div{
+
+background:#f4f7fb;
+
+padding:20px;
+
+border-radius:10px;
+
+width:220px;
+
+}

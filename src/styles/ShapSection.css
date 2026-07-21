@@ -1,0 +1,71 @@
+.shap-container{
+
+    width:90%;
+
+    margin:30px auto;
+
+    background:white;
+
+    padding:30px;
+
+    border-radius:15px;
+
+    box-shadow:0 5px 20px rgba(0,0,0,.1);
+
+}
+
+.shap-container h2{
+
+    color:#1e3a8a;
+
+    margin-bottom:10px;
+
+}
+
+.subtitle{
+
+    color:#666;
+
+    margin-bottom:25px;
+
+}
+
+.shap-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(350px,1fr));
+
+    gap:25px;
+
+}
+
+.shap-card{
+
+    background:#f8fafc;
+
+    border-radius:12px;
+
+    padding:20px;
+
+    text-align:center;
+
+}
+
+.shap-card h3{
+
+    margin-bottom:15px;
+
+    color:#374151;
+
+}
+
+.shap-card img{
+
+    width:100%;
+
+    border-radius:10px;
+
+    border:1px solid #ddd;
+
+}

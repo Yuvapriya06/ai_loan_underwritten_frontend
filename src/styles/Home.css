@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f4f7fb;
+}
+
+h2 {
+  margin: 20px;
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+  text-align: center;
+}

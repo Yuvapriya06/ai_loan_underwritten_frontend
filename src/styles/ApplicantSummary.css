@@ -1,0 +1,55 @@
+.summary-card{
+
+    width:90%;
+
+    margin:30px auto;
+
+    background:white;
+
+    padding:30px;
+
+    border-radius:15px;
+
+    box-shadow:0 5px 20px rgba(0,0,0,.1);
+
+}
+
+.summary-card h2{
+
+    color:#1e3a8a;
+
+    margin-bottom:20px;
+
+}
+
+.summary-card table{
+
+    width:100%;
+
+    border-collapse:collapse;
+
+}
+
+.summary-card td{
+
+    padding:15px;
+
+    border-bottom:1px solid #ddd;
+
+}
+
+.summary-card td:first-child{
+
+    font-weight:bold;
+
+    width:40%;
+
+    color:#374151;
+
+}
+
+.summary-card td:last-child{
+
+    color:#1e3a8a;
+
+}
